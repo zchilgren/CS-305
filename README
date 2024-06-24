@@ -1,0 +1,14 @@
+Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
+  Artemis Financial is a financial institution that is looking to incorporate additional security into their already existing web application.
+What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?
+  It is important to code securly to be able to properly protect you clients/users personal data as to help prevent data breaches that could potentially damager the companies reputation in the future or even possible leak user infomation creating even more issues for everyone involved
+Which part of the vulnerability assessment was challenging or helpful to you?
+  I feel that the most difficult part of the vunerability assesment was initially getting all of the required pieces to work together in the IDE but once that was fixed understanding the vunerabilities and fixing them was not too difficult
+How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
+  The main way that security was increaed was by adding the use of a hash function to create a unique key to help encrypt user data to make it less easy to access by other users or attackers 
+How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
+  After making changes in the code the vunerability test was reran to help make sure that no new vunerabilites were created while checking to make sure that the original vunerabilites were fixed as well
+What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
+  One of the most helpful resources was looking up examples of similar problems online which made it easier to understand how these systems worked at a more fundemental level which will help when doing similar tasks in the future that could have slightly different requirements but a same base line design
+Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+  One of the most relevant pieces from these asignments is the use of hash funciotns to make unique keys to better help encrypt user data
